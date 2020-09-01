@@ -17,3 +17,8 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula02/Aula02-Atividade_PandasETiposDeVariaveis.ipynb)
     - [Exercícios](./aula02/Aula02-Exercicios_PandasETiposDeVariaveis.ipynb)
     - [Base de dados: EmpresaTV Cod.xlsx](./aula02/EmpresaTV%20Cod.xlsx)
+- [Aula 03 - Análise bidimensional com Pandas](./aula03)
+    - [Atividade de sala](./aula03/Aula03_Atividade_ExploratoriaDuasVariaveisQuantitativas_Mundo.ipynb)
+    - [Exercícios](./aula03/Aula03_Exercicio_ExplorandoDuasVariaveisQuantitativas_Discriminacao.ipynb)
+    - [Base de dados: Discriminacao.xlsx](./aula03/Discriminacao.xlsx)
+    - [Base de dados: Mundo.xlsx](./aula03/Mundo.xlsx)
